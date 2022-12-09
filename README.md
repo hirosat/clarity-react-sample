@@ -1,6 +1,16 @@
-# Getting Started with Create React App
+# Clarity React Sample App
+![](public/sample.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Also, I customized this App to use [Clarity Design System](https://core.clarity.design/) on React.
+
+## Quick start
+```
+git clone (this APP)
+cd (this APP)
+npm start
+```
 
 ## Available Scripts
 
